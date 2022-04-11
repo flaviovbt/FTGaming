@@ -1,0 +1,1 @@
+/bin/gcc-9 -g CMakeFiles/Projeto_FTGaming.dir/cliente.c.o CMakeFiles/Projeto_FTGaming.dir/interface.c.o CMakeFiles/Projeto_FTGaming.dir/main.c.o CMakeFiles/Projeto_FTGaming.dir/produto.c.o CMakeFiles/Projeto_FTGaming.dir/venda.c.o -o Projeto_FTGaming 

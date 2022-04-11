@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/ale/Downloads/Projeto_FTGaming/build",
+  "command": "/bin/gcc-9  -I/home/ale/Downloads/Projeto_FTGaming/. -g -std=gnu11 -o CMakeFiles/Projeto_FTGaming.dir/cliente.c.o -c /home/ale/Downloads/Projeto_FTGaming/cliente.c",
+  "file": "/home/ale/Downloads/Projeto_FTGaming/cliente.c"
+},
+{
+  "directory": "/home/ale/Downloads/Projeto_FTGaming/build",
+  "command": "/bin/gcc-9  -I/home/ale/Downloads/Projeto_FTGaming/. -g -std=gnu11 -o CMakeFiles/Projeto_FTGaming.dir/interface.c.o -c /home/ale/Downloads/Projeto_FTGaming/interface.c",
+  "file": "/home/ale/Downloads/Projeto_FTGaming/interface.c"
+},
+{
+  "directory": "/home/ale/Downloads/Projeto_FTGaming/build",
+  "command": "/bin/gcc-9  -I/home/ale/Downloads/Projeto_FTGaming/. -g -std=gnu11 -o CMakeFiles/Projeto_FTGaming.dir/main.c.o -c /home/ale/Downloads/Projeto_FTGaming/main.c",
+  "file": "/home/ale/Downloads/Projeto_FTGaming/main.c"
+},
+{
+  "directory": "/home/ale/Downloads/Projeto_FTGaming/build",
+  "command": "/bin/gcc-9  -I/home/ale/Downloads/Projeto_FTGaming/. -g -std=gnu11 -o CMakeFiles/Projeto_FTGaming.dir/produto.c.o -c /home/ale/Downloads/Projeto_FTGaming/produto.c",
+  "file": "/home/ale/Downloads/Projeto_FTGaming/produto.c"
+},
+{
+  "directory": "/home/ale/Downloads/Projeto_FTGaming/build",
+  "command": "/bin/gcc-9  -I/home/ale/Downloads/Projeto_FTGaming/. -g -std=gnu11 -o CMakeFiles/Projeto_FTGaming.dir/venda.c.o -c /home/ale/Downloads/Projeto_FTGaming/venda.c",
+  "file": "/home/ale/Downloads/Projeto_FTGaming/venda.c"
+}
+]

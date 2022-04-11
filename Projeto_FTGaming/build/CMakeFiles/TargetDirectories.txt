@@ -1,0 +1,3 @@
+/home/ale/Downloads/Projeto_FTGaming/build/CMakeFiles/rebuild_cache.dir
+/home/ale/Downloads/Projeto_FTGaming/build/CMakeFiles/edit_cache.dir
+/home/ale/Downloads/Projeto_FTGaming/build/CMakeFiles/Projeto_FTGaming.dir

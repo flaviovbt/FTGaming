@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ale/Downloads/Projeto_FTGaming/cliente.c
+cliente.h
+/home/ale/Downloads/Projeto_FTGaming/cliente.h
+
+/home/ale/Downloads/Projeto_FTGaming/cliente.h
+
+/home/ale/Downloads/Projeto_FTGaming/interface.c
+interface.h
+/home/ale/Downloads/Projeto_FTGaming/interface.h
+
+/home/ale/Downloads/Projeto_FTGaming/interface.h
+
+/home/ale/Downloads/Projeto_FTGaming/main.c
+stdio.h
+-
+interface.h
+/home/ale/Downloads/Projeto_FTGaming/interface.h
+cliente.h
+/home/ale/Downloads/Projeto_FTGaming/cliente.h
+produto.h
+/home/ale/Downloads/Projeto_FTGaming/produto.h
+venda.h
+/home/ale/Downloads/Projeto_FTGaming/venda.h
+
+/home/ale/Downloads/Projeto_FTGaming/produto.c
+produto.h
+/home/ale/Downloads/Projeto_FTGaming/produto.h
+
+/home/ale/Downloads/Projeto_FTGaming/produto.h
+
+/home/ale/Downloads/Projeto_FTGaming/venda.c
+venda.h
+/home/ale/Downloads/Projeto_FTGaming/venda.h
+
+/home/ale/Downloads/Projeto_FTGaming/venda.h
+
